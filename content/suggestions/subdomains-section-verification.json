@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Add subdomains section for verification",
+  "summary": "Covers Add subdomains section for verification (#228), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 228,
+      "title": "Add subdomains section for verification",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/228"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "subdomains"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: domains/thenityant.json)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "Add subdomains section for verification"
+  ],
+  "links": [
+    {
+      "label": "PR #228: Add subdomains section for verification",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/228"
+    }
+  ],
+  "seo": {
+    "title": "Add subdomains section for verification · runs-on.dev",
+    "metaDescription": "Covers Add subdomains section for verification (#228), merged into the registry."
+  },
+  "coveredPrs": [
+    228
+  ],
+  "suggestedSlugBase": "subdomains-section-verification"
+}

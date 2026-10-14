@@ -1,0 +1,27 @@
+{
+  "name": "ossaraiva",
+  "owner": {
+    "github": "ossaraivas"
+  },
+  "claimedAt": "2026-09-27T18:51:49.679Z",
+  "records": {
+    "A": [
+      "89.155.30.8"
+    ]
+  },
+  "country": "PT",
+  "subdomains": {
+    "vault": {
+      "CNAME": "ossaraiva.runs-on.dev"
+    },
+    "infeherence": {
+      "CNAME": "ossaraiva.runs-on.dev"
+    },
+    "cicd": {
+      "CNAME": "ossaraiva.runs-on.dev"
+    },
+    "tools": {
+      "CNAME": "ossaraiva.runs-on.dev"
+    }
+  }
+}

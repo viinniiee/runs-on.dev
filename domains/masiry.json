@@ -1,0 +1,18 @@
+{
+  "name": "masiry",
+  "owner": {
+    "github": "arsanygeniusmina-star"
+  },
+  "claimedAt": "2026-10-10T11:24:53.723Z",
+  "records": {
+    "CNAME": "2c2fbb360de80238.vercel-dns-017.com"
+  },
+  "country": "EG",
+  "subdomains": {
+    "txt": {
+      "TXT": [
+        "vc-domain-verify=masiry.runs-on.dev,f55098af68f403dff8bd"
+      ]
+    }
+  }
+}

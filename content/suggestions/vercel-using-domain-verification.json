@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Add _vercel TXT for using-it domain verification",
+  "summary": "Covers add _vercel TXT for using-it domain verification (#216), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 216,
+      "title": "add _vercel TXT for using-it domain verification",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/216"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "vercel"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: domains/using-it.json)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "add _vercel TXT for using-it domain verification"
+  ],
+  "links": [
+    {
+      "label": "PR #216: add _vercel TXT for using-it domain verification",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/216"
+    }
+  ],
+  "seo": {
+    "title": "Add _vercel TXT for using-it domain verification · runs-on.d",
+    "metaDescription": "Covers add _vercel TXT for using-it domain verification (#216), merged into the registry."
+  },
+  "coveredPrs": [
+    216
+  ],
+  "suggestedSlugBase": "vercel-using-domain-verification"
+}

@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(sync-dns): one bad record no longer stops the whole sync",
+  "summary": "Covers fix(sync-dns): one bad record no longer stops the whole sync (#208), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 208,
+      "title": "fix(sync-dns): one bad record no longer stops the whole sync",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/208"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "sync"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: .github/workflows/sync-dns.yml, lib/dns.js, scripts/sync-dns.mjs, test/sync-dns.test.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(sync-dns): one bad record no longer stops the whole sync"
+  ],
+  "links": [
+    {
+      "label": "PR #208: fix(sync-dns): one bad record no longer stops the whole sync",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/208"
+    }
+  ],
+  "seo": {
+    "title": "Fix(sync-dns): one bad record no longer stops the whole sync",
+    "metaDescription": "Covers fix(sync-dns): one bad record no longer stops the whole sync (#208), merged into the registry."
+  },
+  "coveredPrs": [
+    208
+  ],
+  "suggestedSlugBase": "sync-record-longer-stops-whole"
+}

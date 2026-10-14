@@ -5,5 +5,28 @@
   },
   "claimedAt": "2026-09-17T14:45:51.903Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "send": {
+      "MX": [
+        {
+          "priority": 10,
+          "value": "feedback-smtp.ap-northeast-1.amazonses.com"
+        }
+      ],
+      "TXT": [
+        "v=spf1 include:amazonses.com ~all"
+      ]
+    },
+    "_dmarc": {
+      "TXT": [
+        "v=DMARC1; p=none;"
+      ]
+    },
+    "resend._domainkey": {
+      "TXT": [
+        "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDDikMM9jaa+cxkBq/VJjKHecT2h7s0jj5Jb9gIBU32f1n+wrduFoSgaWlU1o2CyEIEruhEOYM8BklTVXFIrF6Y0M+jE2x3zzO8O20SnxcRi11gqtJlkhrzEbk5q9n2ER6VNUvy3FD5+iyQKp7hysABVMnRvyrRNH86EUUCPhCqdwIDAQAB"
+      ]
+    }
+  }
 }

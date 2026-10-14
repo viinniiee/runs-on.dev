@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(sync-dns): treat 404 on delete as success, page the zone once per run",
+  "summary": "Covers fix(sync-dns): treat 404 on delete as success, page the zone once per run (#154), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 154,
+      "title": "fix(sync-dns): treat 404 on delete as success, page the zone once per run",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/154"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "sync"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: scripts/sync-dns.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(sync-dns): treat 404 on delete as success, page the zone once per run"
+  ],
+  "links": [
+    {
+      "label": "PR #154: fix(sync-dns): treat 404 on delete as success, page the zone once per run",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/154"
+    }
+  ],
+  "seo": {
+    "title": "Fix(sync-dns): treat 404 on delete as success, page the zone",
+    "metaDescription": "Covers fix(sync-dns): treat 404 on delete as success, page the zone once per run (#154), merged into the registry."
+  },
+  "coveredPrs": [
+    154
+  ],
+  "suggestedSlugBase": "sync-treat-delete-success-page"
+}

@@ -4,6 +4,20 @@
     "github": "deevyanshoo"
   },
   "claimedAt": "2026-09-24T08:18:13.610Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "custom-domains.chatgpt.site"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_openai-site-verification": {
+      "TXT": [
+        "openai-site-verification=Pr4qv9Ot5qSLqsmfoMUZ-ilvPMLWQoGjLkNG6SngG7E"
+      ]
+    },
+    "_cf-custom-hostname": {
+      "TXT": [
+        "5a403e26-0c68-47ef-a000-32920a6a9612"
+      ]
+    }
+  }
 }

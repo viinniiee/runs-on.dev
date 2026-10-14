@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.089Z",
+  "title": "Fix easter egg flip jank, border manage menu toggle, centre mobile footer wordmark",
+  "summary": "Covers Fix easter egg flip jank, border manage menu toggle, centre mobile footer wordmark (#268), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 268,
+      "title": "Fix easter egg flip jank, border manage menu toggle, centre mobile footer wordmark",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/268"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "easter"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/components/Footer.jsx, app/components/flap-frame.jsx, app/manage/manage-shell.jsx, public/ascii-art.png)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "Fix easter egg flip jank, border manage menu toggle, centre mobile footer wordmark"
+  ],
+  "links": [
+    {
+      "label": "PR #268: Fix easter egg flip jank, border manage menu toggle, centre mobile footer wordmark",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/268"
+    }
+  ],
+  "seo": {
+    "title": "Fix easter egg flip jank, border manage menu toggle, centre ",
+    "metaDescription": "Covers Fix easter egg flip jank, border manage menu toggle, centre mobile footer wordmark (#268), merged into the registry."
+  },
+  "coveredPrs": [
+    268
+  ],
+  "suggestedSlugBase": "easter-flip-jank-border-manage"
+}

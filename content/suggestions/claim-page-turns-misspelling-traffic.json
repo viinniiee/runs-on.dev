@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "404 claim page turns misspelling traffic into claims",
+  "summary": "Covers feat: 404 claim page turns misspelling traffic into claims (#106), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 106,
+      "title": "feat: 404 claim page turns misspelling traffic into claims",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/106"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "claim"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/api/auth/github/callback/route.js, app/api/auth/github/route.js, app/claim-form.jsx, app/sites/[name]/page.jsx)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "404 claim page turns misspelling traffic into claims"
+  ],
+  "links": [
+    {
+      "label": "PR #106: feat: 404 claim page turns misspelling traffic into claims",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/106"
+    }
+  ],
+  "seo": {
+    "title": "404 claim page turns misspelling traffic into claims · runs-",
+    "metaDescription": "Covers feat: 404 claim page turns misspelling traffic into claims (#106), merged into the registry."
+  },
+  "coveredPrs": [
+    106
+  ],
+  "suggestedSlugBase": "claim-page-turns-misspelling-traffic"
+}

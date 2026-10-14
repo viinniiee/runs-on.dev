@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(validate): repo-relative contents path in readRecordAt",
+  "summary": "Covers fix(validate): repo-relative contents path in readRecordAt (#113), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 113,
+      "title": "fix(validate): repo-relative contents path in readRecordAt",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/113"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "validate"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: lib/pr.js, test/validate-pr.test.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(validate): repo-relative contents path in readRecordAt"
+  ],
+  "links": [
+    {
+      "label": "PR #113: fix(validate): repo-relative contents path in readRecordAt",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/113"
+    }
+  ],
+  "seo": {
+    "title": "Fix(validate): repo-relative contents path in readRecordAt ·",
+    "metaDescription": "Covers fix(validate): repo-relative contents path in readRecordAt (#113), merged into the registry."
+  },
+  "coveredPrs": [
+    113
+  ],
+  "suggestedSlugBase": "validate-repo-relative-contents-path"
+}

@@ -1,0 +1,54 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Feat(domain): point nomadic.runs-on.dev to and 1 more related changes",
+  "summary": "Covers 2 merged pull requests (#266, #112): feat(domain): point nomadic.runs-on.dev to Vercel; feat(refinix): point at GitHub Pages.",
+  "why": "2 related pull requests landed as one effort; documenting them together gives readers the story instead of fragmenting it across release notes.",
+  "prs": [
+    {
+      "number": 266,
+      "title": "feat(domain): point nomadic.runs-on.dev to Vercel",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/266"
+    },
+    {
+      "number": 112,
+      "title": "feat(refinix): point at GitHub Pages",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/112"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "feat"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: domains/nomadic.json, domains/refinix.json)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "feat(domain): point nomadic.runs-on.dev to Vercel",
+    "feat(refinix): point at GitHub Pages"
+  ],
+  "links": [
+    {
+      "label": "PR #266: feat(domain): point nomadic.runs-on.dev to Vercel",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/266"
+    },
+    {
+      "label": "PR #112: feat(refinix): point at GitHub Pages",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/112"
+    }
+  ],
+  "seo": {
+    "title": "Feat(domain): point nomadic.runs-on.dev to and 1 more relate",
+    "metaDescription": "Covers 2 merged pull requests (#266, #112): feat(domain): point nomadic.runs-on.dev to Vercel; feat(refinix): point at GitHub Pages."
+  },
+  "coveredPrs": [
+    266,
+    112
+  ],
+  "suggestedSlugBase": "feat-domain-point-nomadic-runs"
+}

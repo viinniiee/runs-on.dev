@@ -1,0 +1,54 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Add URL record to and 1 more related changes",
+  "summary": "Covers 2 merged pull requests (#101, #86): Add URL record to prathamesh.json; Add CNAME record to kumarswamynaidu.json.",
+  "why": "2 related pull requests landed as one effort; documenting them together gives readers the story instead of fragmenting it across release notes.",
+  "prs": [
+    {
+      "number": 101,
+      "title": "Add URL record to prathamesh.json",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/101"
+    },
+    {
+      "number": 86,
+      "title": "Add CNAME record to kumarswamynaidu.json",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/86"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "record"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: domains/prathamesh.json, domains/kumarswamynaidu.json)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "Add URL record to prathamesh.json",
+    "Add CNAME record to kumarswamynaidu.json"
+  ],
+  "links": [
+    {
+      "label": "PR #101: Add URL record to prathamesh.json",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/101"
+    },
+    {
+      "label": "PR #86: Add CNAME record to kumarswamynaidu.json",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/86"
+    }
+  ],
+  "seo": {
+    "title": "Add URL record to and 1 more related changes · runs-on.dev",
+    "metaDescription": "Covers 2 merged pull requests (#101, #86): Add URL record to prathamesh.json; Add CNAME record to kumarswamynaidu.json."
+  },
+  "coveredPrs": [
+    101,
+    86
+  ],
+  "suggestedSlugBase": "record-more-related"
+}

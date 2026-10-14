@@ -1,0 +1,16 @@
+{
+  "name": "jaarchith",
+  "owner": {
+    "github": "archith1915"
+  },
+  "claimedAt": "2026-09-28T07:46:13.093Z",
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "CNAME": "0030e0867be2b992.vercel-dns-017.com"
+    }
+  }
+}

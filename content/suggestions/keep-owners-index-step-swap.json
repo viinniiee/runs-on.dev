@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Keep the owners index in step with swap and release",
+  "summary": "Covers fix: keep the owners index in step with swap and release (#152), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 152,
+      "title": "fix: keep the owners index in step with swap and release",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/152"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "keep"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/api/claim/route.js, app/api/release/route.js, app/api/swap/route.js, app/manage/page.jsx)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "keep the owners index in step with swap and release"
+  ],
+  "links": [
+    {
+      "label": "PR #152: fix: keep the owners index in step with swap and release",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/152"
+    }
+  ],
+  "seo": {
+    "title": "Keep the owners index in step with swap and release · runs-o",
+    "metaDescription": "Covers fix: keep the owners index in step with swap and release (#152), merged into the registry."
+  },
+  "coveredPrs": [
+    152
+  ],
+  "suggestedSlugBase": "keep-owners-index-step-swap"
+}

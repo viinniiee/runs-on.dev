@@ -4,6 +4,11 @@
     "github": "HKashyapX"
   },
   "claimedAt": "2026-09-17T12:35:31.464Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "hkashyapx.github.io"
+  },
+  "country": "IN",
+  "profile": {
+    "name": "HKashyapX"
+  }
 }

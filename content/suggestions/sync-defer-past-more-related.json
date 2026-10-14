@@ -1,0 +1,54 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(sync-dns): defer past the and 1 more related changes",
+  "summary": "Covers 2 merged pull requests (#203, #109): fix(sync-dns): defer past the _vercel TXT cap and prune on demand; fix(sync-dns): log the Vercel API's actual error body, not just the status.",
+  "why": "2 related pull requests landed as one effort; documenting them together gives readers the story instead of fragmenting it across release notes.",
+  "prs": [
+    {
+      "number": 203,
+      "title": "fix(sync-dns): defer past the _vercel TXT cap and prune on demand",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/203"
+    },
+    {
+      "number": 109,
+      "title": "fix(sync-dns): log the Vercel API's actual error body, not just the status",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/109"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "sync"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: .github/workflows/health-check.yml, .github/workflows/prune-verification.yml, .github/workflows/sync-dns.yml, lib/dns.js)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(sync-dns): defer past the _vercel TXT cap and prune on demand",
+    "fix(sync-dns): log the Vercel API's actual error body, not just the status"
+  ],
+  "links": [
+    {
+      "label": "PR #203: fix(sync-dns): defer past the _vercel TXT cap and prune on demand",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/203"
+    },
+    {
+      "label": "PR #109: fix(sync-dns): log the Vercel API's actual error body, not just the status",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/109"
+    }
+  ],
+  "seo": {
+    "title": "Fix(sync-dns): defer past the and 1 more related changes · r",
+    "metaDescription": "Covers 2 merged pull requests (#203, #109): fix(sync-dns): defer past the _vercel TXT cap and prune on demand; fix(sync-dns): log the Vercel API's actual e"
+  },
+  "coveredPrs": [
+    203,
+    109
+  ],
+  "suggestedSlugBase": "sync-defer-past-more-related"
+}

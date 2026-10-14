@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(manage): editing a profile no longer wipes DNS records",
+  "summary": "Covers fix(manage): editing a profile no longer wipes DNS records (#118), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 118,
+      "title": "fix(manage): editing a profile no longer wipes DNS records",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/118"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "manage"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/manage/record-form.jsx, test/record-fields.test.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(manage): editing a profile no longer wipes DNS records"
+  ],
+  "links": [
+    {
+      "label": "PR #118: fix(manage): editing a profile no longer wipes DNS records",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/118"
+    }
+  ],
+  "seo": {
+    "title": "Fix(manage): editing a profile no longer wipes DNS records ·",
+    "metaDescription": "Covers fix(manage): editing a profile no longer wipes DNS records (#118), merged into the registry."
+  },
+  "coveredPrs": [
+    118
+  ],
+  "suggestedSlugBase": "manage-editing-profile-longer-wipes"
+}

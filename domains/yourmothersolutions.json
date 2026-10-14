@@ -1,0 +1,13 @@
+{
+  "name": "yourmothersolutions",
+  "owner": {
+    "github": "YourMotherGit"
+  },
+  "claimedAt": "2026-10-03T19:36:59.504Z",
+  "records": {
+    "TXT": [
+      "v=spf1 -all"
+    ]
+  },
+  "country": "DE"
+}

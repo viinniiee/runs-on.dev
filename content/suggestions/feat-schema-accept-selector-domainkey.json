@@ -1,0 +1,54 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.089Z",
+  "title": "Feat(schema): accept <selector>._domainkey subdomain and 1 more related changes",
+  "summary": "Covers 2 merged pull requests (#283, #88): feat(schema): accept <selector>._domainkey subdomain labels for DKIM; feat(schema): two-label verification subdomains.",
+  "why": "2 related pull requests landed as one effort; documenting them together gives readers the story instead of fragmenting it across release notes.",
+  "prs": [
+    {
+      "number": 283,
+      "title": "feat(schema): accept <selector>._domainkey subdomain labels for DKIM",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/283"
+    },
+    {
+      "number": 88,
+      "title": "feat(schema): two-label verification subdomains",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/88"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "feat"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/docs/guides/email-forwarding/page.jsx, docs/guides.md, docs/records.md, lib/schema.js)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "feat(schema): accept <selector>._domainkey subdomain labels for DKIM",
+    "feat(schema): two-label verification subdomains"
+  ],
+  "links": [
+    {
+      "label": "PR #283: feat(schema): accept <selector>._domainkey subdomain labels for DKIM",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/283"
+    },
+    {
+      "label": "PR #88: feat(schema): two-label verification subdomains",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/88"
+    }
+  ],
+  "seo": {
+    "title": "Feat(schema): accept <selector>._domainkey subdomain and 1 m",
+    "metaDescription": "Covers 2 merged pull requests (#283, #88): feat(schema): accept <selector>._domainkey subdomain labels for DKIM; feat(schema): two-label verification subdo"
+  },
+  "coveredPrs": [
+    283,
+    88
+  ],
+  "suggestedSlugBase": "feat-schema-accept-selector-domainkey"
+}

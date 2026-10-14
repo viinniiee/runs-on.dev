@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "#84 follow-ups — dead SSRF helper, TOCTOU reasoning, testable countOwnedNames",
+  "summary": "Covers fix: #84 follow-ups — dead SSRF helper, TOCTOU reasoning, testable countOwnedNames (#89), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 89,
+      "title": "fix: #84 follow-ups — dead SSRF helper, TOCTOU reasoning, testable countOwnedNames",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/89"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "follow"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/api/dns-check/route.js, lib/pr.js, scripts/validate-pr.mjs, test/validate-pr.test.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "#84 follow-ups — dead SSRF helper, TOCTOU reasoning, testable countOwnedNames"
+  ],
+  "links": [
+    {
+      "label": "PR #89: fix: #84 follow-ups — dead SSRF helper, TOCTOU reasoning, testable countOwnedNames",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/89"
+    }
+  ],
+  "seo": {
+    "title": "#84 follow-ups — dead SSRF helper, TOCTOU reasoning, testabl",
+    "metaDescription": "Covers fix: #84 follow-ups — dead SSRF helper, TOCTOU reasoning, testable countOwnedNames (#89), merged into the registry."
+  },
+  "coveredPrs": [
+    89
+  ],
+  "suggestedSlugBase": "follow-dead-ssrf-helper-toctou"
+}

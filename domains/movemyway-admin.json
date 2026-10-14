@@ -5,18 +5,11 @@
   },
   "claimedAt": "2026-09-24T20:10:24.311Z",
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "dbad6d7820fedbc0.vercel-dns-017.com"
   },
   "country": "MY",
   "profile": {
     "name": "Move My Way Admin Dashbord",
     "bio": "Admin Dashboard to Manage the \"Move My Way\" Mobile Application."
-  },
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=movemyway-admin.runs-on.dev,3d38d3e6cccae101d6e1"
-      ]
-    }
   }
 }

@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Add Vercel DNS configuration for launchtrack.runs-on.dev",
+  "summary": "Covers Add Vercel DNS configuration for launchtrack.runs-on.dev (#193), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 193,
+      "title": "Add Vercel DNS configuration for launchtrack.runs-on.dev",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/193"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "vercel"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: domains/launchtrack.json)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "Add Vercel DNS configuration for launchtrack.runs-on.dev"
+  ],
+  "links": [
+    {
+      "label": "PR #193: Add Vercel DNS configuration for launchtrack.runs-on.dev",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/193"
+    }
+  ],
+  "seo": {
+    "title": "Add Vercel DNS configuration for launchtrack.runs-on.dev · r",
+    "metaDescription": "Covers Add Vercel DNS configuration for launchtrack.runs-on.dev (#193), merged into the registry."
+  },
+  "coveredPrs": [
+    193
+  ],
+  "suggestedSlugBase": "vercel-configuration-launchtrack-runs"
+}

@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(proxy): send claimed-host subpaths to the apex instead of 404",
+  "summary": "Covers fix(proxy): send claimed-host subpaths to the apex instead of 404 (#122), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 122,
+      "title": "fix(proxy): send claimed-host subpaths to the apex instead of 404",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/122"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "proxy"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: proxy.js)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(proxy): send claimed-host subpaths to the apex instead of 404"
+  ],
+  "links": [
+    {
+      "label": "PR #122: fix(proxy): send claimed-host subpaths to the apex instead of 404",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/122"
+    }
+  ],
+  "seo": {
+    "title": "Fix(proxy): send claimed-host subpaths to the apex instead o",
+    "metaDescription": "Covers fix(proxy): send claimed-host subpaths to the apex instead of 404 (#122), merged into the registry."
+  },
+  "coveredPrs": [
+    122
+  ],
+  "suggestedSlugBase": "proxy-send-claimed-host-subpaths"
+}

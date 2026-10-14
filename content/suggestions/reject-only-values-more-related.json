@@ -1,0 +1,54 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.089Z",
+  "title": "Reject #-only TXT values and 1 more related changes",
+  "summary": "Covers 2 merged pull requests (#306, #206): reject #-only TXT values and clear the stuck pipeline record; fix(sync-dns): reject brace-only TXT values; stop CNAME churn.",
+  "why": "2 related pull requests landed as one effort; documenting them together gives readers the story instead of fragmenting it across release notes.",
+  "prs": [
+    {
+      "number": 306,
+      "title": "fix: reject #-only TXT values and clear the stuck pipeline record",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/306"
+    },
+    {
+      "number": 206,
+      "title": "fix(sync-dns): reject brace-only TXT values; stop CNAME churn",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/206"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "reject"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: domains/pipeline.json, lib/schema.js, test/schema.test.mjs, lib/dns.js)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "reject #-only TXT values and clear the stuck pipeline record",
+    "fix(sync-dns): reject brace-only TXT values; stop CNAME churn"
+  ],
+  "links": [
+    {
+      "label": "PR #306: fix: reject #-only TXT values and clear the stuck pipeline record",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/306"
+    },
+    {
+      "label": "PR #206: fix(sync-dns): reject brace-only TXT values; stop CNAME churn",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/206"
+    }
+  ],
+  "seo": {
+    "title": "Reject #-only TXT values and 1 more related changes · runs-o",
+    "metaDescription": "Covers 2 merged pull requests (#306, #206): reject #-only TXT values and clear the stuck pipeline record; fix(sync-dns): reject brace-only TXT values; stop"
+  },
+  "coveredPrs": [
+    306,
+    206
+  ],
+  "suggestedSlugBase": "reject-only-values-more-related"
+}

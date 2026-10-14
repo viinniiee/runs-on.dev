@@ -4,6 +4,8 @@
     "github": "kavya-r30"
   },
   "claimedAt": "2026-09-17T18:14:56.609Z",
-  "records": {},
+  "records": {
+    "CNAME": "c865a69f0ecd72a1.vercel-dns-017.com"
+  },
   "country": "IN"
 }

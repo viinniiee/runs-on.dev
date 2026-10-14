@@ -1,0 +1,18 @@
+{
+  "name": "codeharbor",
+  "owner": {
+    "github": "Shahmir675"
+  },
+  "claimedAt": "2026-10-07T12:11:47.026Z",
+  "records": {
+    "CNAME": "fa1330e3da29c1eb.vercel-dns-017.com"
+  },
+  "country": "PK",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=codeharbor.runs-on.dev,2fe0e6bde222440e7c10"
+      ]
+    }
+  }
+}

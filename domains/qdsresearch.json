@@ -1,0 +1,19 @@
+{
+  "name": "qdsresearch",
+  "owner": {
+    "github": "Mayank-Srivastava-21"
+  },
+  "claimedAt": "2026-10-04T16:10:22.868Z",
+  "records": {
+    "TXT": [
+      "v=spf1 include:spf.trekmail.net -all"
+    ],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "mail.trekmail.net"
+      }
+    ]
+  },
+  "country": "IN"
+}

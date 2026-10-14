@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "finimus.github.io"
   },
-  "country": "RO",
-  "subdomains": {
-    "_canva": {
-      "TXT": [
-        "https://finimus.my.canva.site/"
-      ]
-    }
-  }
+  "country": "RO"
 }

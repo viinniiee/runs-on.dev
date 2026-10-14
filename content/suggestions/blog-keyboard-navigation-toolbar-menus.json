@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(blog): add keyboard navigation to toolbar menus",
+  "summary": "Covers fix(blog): add keyboard navigation to toolbar menus (#243), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 243,
+      "title": "fix(blog): add keyboard navigation to toolbar menus",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/243"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "blog"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/blog/[slug]/post-toolbar.jsx, lib/menu-keyboard.js, test/menu-keyboard.test.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(blog): add keyboard navigation to toolbar menus"
+  ],
+  "links": [
+    {
+      "label": "PR #243: fix(blog): add keyboard navigation to toolbar menus",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/243"
+    }
+  ],
+  "seo": {
+    "title": "Fix(blog): add keyboard navigation to toolbar menus · runs-o",
+    "metaDescription": "Covers fix(blog): add keyboard navigation to toolbar menus (#243), merged into the registry."
+  },
+  "coveredPrs": [
+    243
+  ],
+  "suggestedSlugBase": "blog-keyboard-navigation-toolbar-menus"
+}

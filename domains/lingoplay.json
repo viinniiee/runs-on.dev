@@ -1,0 +1,28 @@
+{
+  "name": "lingoplay",
+  "owner": {
+    "github": "ningfou"
+  },
+  "claimedAt": "2026-10-02T14:04:45.728Z",
+  "records": {
+    "CNAME": "lingoplay.runs-on.dev.pages.dnsoe5.com"
+  },
+  "country": "US",
+  "subdomains": {
+    "edgeonereclaim": {
+      "TXT": [
+        "reclaim-1iego1pr14sj7p16v74ucgbjqrxmkquc"
+      ]
+    },
+    "_dnsauth": {
+      "TXT": [
+        "20261002151016l2mjb5n7sn5z06s5fk68a8oswojetoq"
+      ]
+    },
+    "_acme-challenge": {
+      "TXT": [
+        "Nogyh9V72j83YL7E9N5TlptgbkzmJ8MOfka8nBGfeCM"
+      ]
+    }
+  }
+}

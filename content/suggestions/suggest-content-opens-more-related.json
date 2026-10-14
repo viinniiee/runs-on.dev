@@ -1,0 +1,54 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.089Z",
+  "title": "Suggest-content opens a PR and 1 more related changes",
+  "summary": "Covers 2 merged pull requests (#307, #117): suggest-content opens a PR instead of pushing to protected main; fix(ci): let the maintenance workflows actually push to main.",
+  "why": "2 related pull requests landed as one effort; documenting them together gives readers the story instead of fragmenting it across release notes.",
+  "prs": [
+    {
+      "number": 307,
+      "title": "fix: suggest-content opens a PR instead of pushing to protected main",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/307"
+    },
+    {
+      "number": 117,
+      "title": "fix(ci): let the maintenance workflows actually push to main",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/117"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "suggest"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: .github/workflows/suggest-content.yml, .github/workflows/prune-verification.yml, .github/workflows/sync-owners.yml)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "suggest-content opens a PR instead of pushing to protected main",
+    "fix(ci): let the maintenance workflows actually push to main"
+  ],
+  "links": [
+    {
+      "label": "PR #307: fix: suggest-content opens a PR instead of pushing to protected main",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/307"
+    },
+    {
+      "label": "PR #117: fix(ci): let the maintenance workflows actually push to main",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/117"
+    }
+  ],
+  "seo": {
+    "title": "Suggest-content opens a PR and 1 more related changes · runs",
+    "metaDescription": "Covers 2 merged pull requests (#307, #117): suggest-content opens a PR instead of pushing to protected main; fix(ci): let the maintenance workflows actuall"
+  },
+  "coveredPrs": [
+    307,
+    117
+  ],
+  "suggestedSlugBase": "suggest-content-opens-more-related"
+}

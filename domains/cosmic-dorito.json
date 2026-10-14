@@ -1,0 +1,38 @@
+{
+  "name": "cosmic-dorito",
+  "owner": {
+    "github": "Cosmic-dorito"
+  },
+  "claimedAt": "2026-10-11T18:13:27.169Z",
+  "records": {
+    "A": [
+      "76.76.21.21"
+    ],
+    "TXT": [
+      "zoho-verification=zb92284098.zmverify.zoho.in",
+      "v=spf1 include:zoho.in ~all"
+    ],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "mx.zoho.in"
+      },
+      {
+        "priority": 20,
+        "value": "mx2.zoho.in"
+      },
+      {
+        "priority": 50,
+        "value": "mx3.zoho.in"
+      }
+    ]
+  },
+  "country": "IN",
+  "subdomains": {
+    "zoho._domainkey": {
+      "TXT": [
+        "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCIKvzdUAp4Nnh1X8FDHBVB5Cnzhr9urdxnQpADNCH/mAjZaKUP+dT85+vkMfPDyRz18fAdx7cN906Fh1g8gdXVWnwGEmpaTsKosU00vPrJzyTDgy26wn4VO3PHAOOieBghG33QM/uc7PmfgN9VFbx9lZc1gKw7fW8G9WujG0QGEwIDAQAB"
+      ]
+    }
+  }
+}

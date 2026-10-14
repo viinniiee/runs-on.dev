@@ -1,0 +1,16 @@
+{
+  "name": "dwarkeshramani",
+  "owner": {
+    "github": "Daku3011"
+  },
+  "claimedAt": "2026-09-27T08:01:00.166Z",
+  "records": {
+    "CNAME": "1e4610cbb46ee64d.vercel-dns-017.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "lzgwo3jti2bq": {
+      "CNAME": "gv-ya2ztiu6vicq6a.dv.googlehosted.com"
+    }
+  }
+}

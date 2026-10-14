@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(check): rate limit the availability endpoint and use CARD_TOKEN",
+  "summary": "Covers fix(check): rate limit the availability endpoint and use CARD_TOKEN (#153), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 153,
+      "title": "fix(check): rate limit the availability endpoint and use CARD_TOKEN",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/153"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "check"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/api/check/route.js)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(check): rate limit the availability endpoint and use CARD_TOKEN"
+  ],
+  "links": [
+    {
+      "label": "PR #153: fix(check): rate limit the availability endpoint and use CARD_TOKEN",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/153"
+    }
+  ],
+  "seo": {
+    "title": "Fix(check): rate limit the availability endpoint and use CAR",
+    "metaDescription": "Covers fix(check): rate limit the availability endpoint and use CARD_TOKEN (#153), merged into the registry."
+  },
+  "coveredPrs": [
+    153
+  ],
+  "suggestedSlugBase": "check-rate-limit-availability-endpoint"
+}

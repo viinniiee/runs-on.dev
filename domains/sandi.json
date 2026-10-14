@@ -1,0 +1,29 @@
+{
+  "name": "sandi",
+  "owner": {
+    "github": "sandeepannandi"
+  },
+  "claimedAt": "2026-10-04T15:34:21.872Z",
+  "records": {},
+  "country": "IN",
+  "subdomains": {
+    "games": {
+      "CNAME": "sandigames.netlify.app"
+    },
+    "qlearo": {
+      "CNAME": "qlearo.netlify.app"
+    },
+    "expensepal": {
+      "CNAME": "expal.netlify.app"
+    },
+    "privacy": {
+      "CNAME": "expensepalacc.netlify.app"
+    },
+    "cipher": {
+      "CNAME": "fascinating-truffle-1d4ae8.netlify.app"
+    },
+    "nativelet": {
+      "CNAME": "nativelet.netlify.app"
+    }
+  }
+}

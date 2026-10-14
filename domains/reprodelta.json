@@ -1,0 +1,16 @@
+{
+  "name": "reprodelta",
+  "owner": {
+    "github": "Samy6767f"
+  },
+  "claimedAt": "2026-10-11T10:27:40.961Z",
+  "records": {
+    "CNAME": "dev.app"
+  },
+  "country": "IN",
+  "subdomains": {
+    "reprodelta": {
+      "CNAME": "8gx2l2ti.up.railway.app"
+    }
+  }
+}

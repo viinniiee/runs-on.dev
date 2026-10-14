@@ -5,12 +5,7 @@
   },
   "claimedAt": "2026-09-21T19:10:47.167Z",
   "records": {
-    "CNAME": "cname.vercel-dns.com"
-  },
-  "subdomains": {
-    "presentation": {
-      "CNAME": "df6f2136671ce258.vercel-dns-017.com"
-    }
+    "URL": "https://runson-dev-grammar-cicd-presentatio.vercel.app/"
   },
   "profile": {
     "name": "English"

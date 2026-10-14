@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(manage): normalize pasted hostnames instead of rejecting them",
+  "summary": "Covers fix(manage): normalize pasted hostnames instead of rejecting them (#121), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 121,
+      "title": "fix(manage): normalize pasted hostnames instead of rejecting them",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/121"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "manage"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: lib/record-fields.js, test/record-fields.test.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(manage): normalize pasted hostnames instead of rejecting them"
+  ],
+  "links": [
+    {
+      "label": "PR #121: fix(manage): normalize pasted hostnames instead of rejecting them",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/121"
+    }
+  ],
+  "seo": {
+    "title": "Fix(manage): normalize pasted hostnames instead of rejecting",
+    "metaDescription": "Covers fix(manage): normalize pasted hostnames instead of rejecting them (#121), merged into the registry."
+  },
+  "coveredPrs": [
+    121
+  ],
+  "suggestedSlugBase": "manage-normalize-pasted-hostnames-rejecting"
+}

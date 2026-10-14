@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.089Z",
+  "title": "Add rajveer.runs-on.dev domain",
+  "summary": "Covers Add rajveer.runs-on.dev domain (#272), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 272,
+      "title": "Add rajveer.runs-on.dev domain",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/272"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "rajveer"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: domains/rajveer.json)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "Add rajveer.runs-on.dev domain"
+  ],
+  "links": [
+    {
+      "label": "PR #272: Add rajveer.runs-on.dev domain",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/272"
+    }
+  ],
+  "seo": {
+    "title": "Add rajveer.runs-on.dev domain · runs-on.dev",
+    "metaDescription": "Covers Add rajveer.runs-on.dev domain (#272), merged into the registry."
+  },
+  "coveredPrs": [
+    272
+  ],
+  "suggestedSlugBase": "rajveer-runs-domain"
+}

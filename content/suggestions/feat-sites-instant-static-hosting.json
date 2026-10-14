@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Feat(sites): instant static hosting for claimed names",
+  "summary": "Covers feat(sites): instant static hosting for claimed names (#169), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 169,
+      "title": "feat(sites): instant static hosting for claimed names",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/169"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "feat"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: .env.example, .github/workflows/deploy.yml, app/api/sites/deploy/route.js, app/api/sites/deployments/route.js)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "feat(sites): instant static hosting for claimed names"
+  ],
+  "links": [
+    {
+      "label": "PR #169: feat(sites): instant static hosting for claimed names",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/169"
+    }
+  ],
+  "seo": {
+    "title": "Feat(sites): instant static hosting for claimed names · runs",
+    "metaDescription": "Covers feat(sites): instant static hosting for claimed names (#169), merged into the registry."
+  },
+  "coveredPrs": [
+    169
+  ],
+  "suggestedSlugBase": "feat-sites-instant-static-hosting"
+}

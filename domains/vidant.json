@@ -1,0 +1,16 @@
+{
+  "name": "vidant",
+  "owner": {
+    "github": "vidanttt"
+  },
+  "claimedAt": "2026-10-14T06:27:48.195Z",
+  "records": {},
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=vidant.runs-on.dev,fa6ab23f39ae452b8c4c"
+      ]
+    }
+  }
+}

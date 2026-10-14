@@ -1,0 +1,18 @@
+{
+  "name": "vatsal",
+  "owner": {
+    "github": "vatsaltank28"
+  },
+  "claimedAt": "2026-09-29T18:29:37.107Z",
+  "records": {
+    "CNAME": "vatsaltank.netlify.app"
+  },
+  "country": "IN",
+  "subdomains": {
+    "subdomain-owner-verification": {
+      "TXT": [
+        "3d4f8d11bc8ad07aa2877b82d7605090"
+      ]
+    }
+  }
+}

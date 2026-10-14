@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "b48e616c32430011.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=anupam.runs-on.dev,fbca0e49708846b6ff32"
-      ]
-    }
-  }
+  "country": "IN"
 }

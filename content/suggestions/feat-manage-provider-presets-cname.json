@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Feat(manage): provider presets for CNAME mode",
+  "summary": "Covers feat(manage): provider presets for CNAME mode (#156), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 156,
+      "title": "feat(manage): provider presets for CNAME mode",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/156"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "feat"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/manage/record-form.jsx)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "feat(manage): provider presets for CNAME mode"
+  ],
+  "links": [
+    {
+      "label": "PR #156: feat(manage): provider presets for CNAME mode",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/156"
+    }
+  ],
+  "seo": {
+    "title": "Feat(manage): provider presets for CNAME mode · runs-on.dev",
+    "metaDescription": "Covers feat(manage): provider presets for CNAME mode (#156), merged into the registry."
+  },
+  "coveredPrs": [
+    156
+  ],
+  "suggestedSlugBase": "feat-manage-provider-presets-cname"
+}

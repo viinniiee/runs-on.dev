@@ -1,0 +1,20 @@
+{
+  "name": "aestheticstudio",
+  "owner": "frasocial33-ai",
+  "active": "534b0334",
+  "deployments": [
+    {
+      "id": "fb14ccab",
+      "at": "2026-10-01T10:40:49.702Z",
+      "files": 13,
+      "bytes": 4009604
+    },
+    {
+      "id": "534b0334",
+      "at": "2026-10-01T11:27:29.376Z",
+      "files": 13,
+      "bytes": 4009604
+    }
+  ],
+  "updatedAt": "2026-10-01T11:27:29.376Z"
+}

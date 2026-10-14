@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Feat(health): notify stuck owners, and repair DNS drift automatically",
+  "summary": "Covers feat(health): notify stuck owners, and repair DNS drift automatically (#124), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 124,
+      "title": "feat(health): notify stuck owners, and repair DNS drift automatically",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/124"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "feat"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: .github/workflows/health-check.yml, .github/workflows/sync-dns.yml, lib/health.js, scripts/health-check.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "feat(health): notify stuck owners, and repair DNS drift automatically"
+  ],
+  "links": [
+    {
+      "label": "PR #124: feat(health): notify stuck owners, and repair DNS drift automatically",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/124"
+    }
+  ],
+  "seo": {
+    "title": "Feat(health): notify stuck owners, and repair DNS drift auto",
+    "metaDescription": "Covers feat(health): notify stuck owners, and repair DNS drift automatically (#124), merged into the registry."
+  },
+  "coveredPrs": [
+    124
+  ],
+  "suggestedSlugBase": "feat-health-notify-stuck-owners"
+}

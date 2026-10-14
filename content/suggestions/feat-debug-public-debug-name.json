@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Feat(debug): public /debug/<name> diagnosis page",
+  "summary": "Covers feat(debug): public /debug/<name> diagnosis page (#157), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 157,
+      "title": "feat(debug): public /debug/<name> diagnosis page",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/157"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "feat"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/api/dns-check/route.js, app/debug/[name]/page.jsx, lib/dns-probe.js)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "feat(debug): public /debug/<name> diagnosis page"
+  ],
+  "links": [
+    {
+      "label": "PR #157: feat(debug): public /debug/<name> diagnosis page",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/157"
+    }
+  ],
+  "seo": {
+    "title": "Feat(debug): public /debug/<name> diagnosis page · runs-on.d",
+    "metaDescription": "Covers feat(debug): public /debug/<name> diagnosis page (#157), merged into the registry."
+  },
+  "coveredPrs": [
+    157
+  ],
+  "suggestedSlugBase": "feat-debug-public-debug-name"
+}

@@ -11,6 +11,11 @@
   "subdomains": {
     "ravel": {
       "CNAME": "f6c650fb05adf9ec.vercel-dns-017.com"
+    },
+    "home": {
+      "TXT": [
+        "google-site-verification=WJAGK2X3wYa9wNijaibQaY8XVKO-T_z4spYePOl2Ctk"
+      ]
     }
   }
 }

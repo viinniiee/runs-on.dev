@@ -4,9 +4,20 @@
     "github": "EditSquex"
   },
   "claimedAt": "2026-09-17T17:33:28.286Z",
-  "records": {},
+  "records": {
+    "TXT": [
+      "_discord.squex.runs-on.dev"
+    ]
+  },
   "country": "TR",
   "profile": {
     "name": "EditSquex"
+  },
+  "subdomains": {
+    "_discord": {
+      "TXT": [
+        "dh=db069198ee36bda2a73b256d95713442edf5fb76"
+      ]
+    }
   }
 }

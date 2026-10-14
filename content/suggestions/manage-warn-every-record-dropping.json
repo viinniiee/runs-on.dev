@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(manage,nav): warn on every record-dropping mode switch, focus rings on the dock",
+  "summary": "Covers fix(manage,nav): warn on every record-dropping mode switch, focus rings on the dock (#155), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 155,
+      "title": "fix(manage,nav): warn on every record-dropping mode switch, focus rings on the dock",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/155"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "manage"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/edge-picker.jsx, app/manage/record-form.jsx)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(manage,nav): warn on every record-dropping mode switch, focus rings on the dock"
+  ],
+  "links": [
+    {
+      "label": "PR #155: fix(manage,nav): warn on every record-dropping mode switch, focus rings on the dock",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/155"
+    }
+  ],
+  "seo": {
+    "title": "Fix(manage,nav): warn on every record-dropping mode switch, ",
+    "metaDescription": "Covers fix(manage,nav): warn on every record-dropping mode switch, focus rings on the dock (#155), merged into the registry."
+  },
+  "coveredPrs": [
+    155
+  ],
+  "suggestedSlugBase": "manage-warn-every-record-dropping"
+}

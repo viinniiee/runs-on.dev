@@ -1,0 +1,14 @@
+{
+  "name": "niruvi-store",
+  "owner": "putinservai-cyber",
+  "active": "10acda5b",
+  "deployments": [
+    {
+      "id": "10acda5b",
+      "at": "2026-10-01T07:37:43.594Z",
+      "files": 144,
+      "bytes": 4485308
+    }
+  ],
+  "updatedAt": "2026-10-01T07:37:43.594Z"
+}

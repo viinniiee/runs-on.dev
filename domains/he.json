@@ -1,0 +1,16 @@
+{
+  "name": "he",
+  "owner": {
+    "github": "beetauri"
+  },
+  "claimedAt": "2026-10-11T12:07:52.140Z",
+  "records": {},
+  "country": "TR",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=runs-on.dev,5883dd0851401c9faaf1"
+      ]
+    }
+  }
+}

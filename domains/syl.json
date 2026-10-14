@@ -5,9 +5,7 @@
   },
   "claimedAt": "2026-09-24T11:16:34.895Z",
   "records": {
-    "TXT": [
-      "record"
-    ]
+    "URL": "https://m.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   "country": "NL",
   "subdomains": {
@@ -16,5 +14,8 @@
         "dh=342799e466e21da19082d7d2042933067c0bd861"
       ]
     }
+  },
+  "profile": {
+    "name": "@schizosyl"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "name": "aavrit",
+  "owner": {
+    "github": "AV248"
+  },
+  "claimedAt": "2026-10-04T15:42:19.337Z",
+  "records": {
+    "TXT": [
+      "verification-code-site-App_lark=KXM0i1musdyF9VU2SW9H",
+      "v=spf1 +include:spf.onlarksuite.com -all"
+    ],
+    "MX": [
+      {
+        "priority": 1,
+        "value": "mx1.larksuite.com"
+      },
+      {
+        "priority": 5,
+        "value": "mx2.larksuite.com"
+      },
+      {
+        "priority": 10,
+        "value": "mx3.larksuite.com"
+      }
+    ]
+  },
+  "country": "NP",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=aavrit.runs-on.dev,b4515596779211252903"
+      ]
+    }
+  }
+}

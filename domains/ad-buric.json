@@ -1,0 +1,28 @@
+{
+  "name": "ad-buric",
+  "owner": {
+    "github": "Progamingrecords"
+  },
+  "claimedAt": "2026-10-08T21:29:41.111Z",
+  "records": {
+    "TXT": [
+      "zoho-verification=zb28964128.zmverify.zoho.eu",
+      "v=spf1 include:zohomail.eu ~all"
+    ],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "mx.zoho.eu"
+      },
+      {
+        "priority": 20,
+        "value": "mx2.zoho.eu"
+      },
+      {
+        "priority": 50,
+        "value": "mx3.zoho.eu"
+      }
+    ]
+  },
+  "country": "HR"
+}

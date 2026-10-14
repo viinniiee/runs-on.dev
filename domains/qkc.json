@@ -1,0 +1,47 @@
+{
+  "name": "qkc",
+  "owner": {
+    "github": "spaj7468-cell"
+  },
+  "claimedAt": "2026-10-06T14:41:15.000Z",
+  "records": {
+    "CNAME": "spaj7468-cell.github.io"
+  },
+  "subdomains": {
+    "corp": {
+      "CNAME": "spaj7468-cell.github.io"
+    },
+    "engine": {
+      "CNAME": "spaj7468-cell.github.io"
+    },
+    "code": {
+      "CNAME": "spaj7468-cell.github.io"
+    }
+  },
+  "profile": {
+    "name": "OuRi Corp — QKC",
+    "bio": "QKC family by OuRi Corp, in plain JavaScript: QKC (offline math trainer), QKC Engine (dependency-free quiz engine), QKCcode (offline coding school: HTML, JS, Python, Lua, GDScript, C#).",
+    "links": [
+      {
+        "label": "QKC trainer",
+        "url": "https://spaj7468-cell.github.io/qkc/"
+      },
+      {
+        "label": "QKCcode — learn to code",
+        "url": "https://spaj7468-cell.github.io/qkccode/"
+      },
+      {
+        "label": "QKC Engine docs",
+        "url": "https://spaj7468-cell.github.io/qkc-engine/"
+      },
+      {
+        "label": "OuRi Corp",
+        "url": "https://spaj7468-cell.github.io/ouri-corp/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/spaj7468-cell"
+      }
+    ]
+  }
+}

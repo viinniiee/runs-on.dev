@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(sync-dns): converge the whole registry every run; fix the scheduled repair",
+  "summary": "Covers fix(sync-dns): converge the whole registry every run; fix the scheduled repair (#214), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 214,
+      "title": "fix(sync-dns): converge the whole registry every run; fix the scheduled repair",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/214"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "sync"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: .github/workflows/sync-dns.yml, lib/dns.js, lib/health.js, lib/schema.js)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(sync-dns): converge the whole registry every run; fix the scheduled repair"
+  ],
+  "links": [
+    {
+      "label": "PR #214: fix(sync-dns): converge the whole registry every run; fix the scheduled repair",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/214"
+    }
+  ],
+  "seo": {
+    "title": "Fix(sync-dns): converge the whole registry every run; fix th",
+    "metaDescription": "Covers fix(sync-dns): converge the whole registry every run; fix the scheduled repair (#214), merged into the registry."
+  },
+  "coveredPrs": [
+    214
+  ],
+  "suggestedSlugBase": "sync-converge-whole-registry-every"
+}

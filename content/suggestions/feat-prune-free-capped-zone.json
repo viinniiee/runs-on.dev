@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Feat(prune): free capped zone slots by dropping settled verification challenges",
+  "summary": "Covers feat(prune): free capped zone slots by dropping settled verification challenges (#115), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 115,
+      "title": "feat(prune): free capped zone slots by dropping settled verification challenges",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/115"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "feat"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: .github/workflows/prune-verification.yml, lib/prune.js, scripts/prune-verification.mjs, test/prune.test.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "feat(prune): free capped zone slots by dropping settled verification challenges"
+  ],
+  "links": [
+    {
+      "label": "PR #115: feat(prune): free capped zone slots by dropping settled verification challenges",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/115"
+    }
+  ],
+  "seo": {
+    "title": "Feat(prune): free capped zone slots by dropping settled veri",
+    "metaDescription": "Covers feat(prune): free capped zone slots by dropping settled verification challenges (#115), merged into the registry."
+  },
+  "coveredPrs": [
+    115
+  ],
+  "suggestedSlugBase": "feat-prune-free-capped-zone"
+}

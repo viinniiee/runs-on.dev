@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Manage rework (per-section saves, profile/api pages, panel), token registry, banner redesign, toolbar blur",
+  "summary": "Covers feat: manage rework (per-section saves, profile/api pages, panel), token registry, banner redesign, toolbar blur (#250), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 250,
+      "title": "feat: manage rework (per-section saves, profile/api pages, panel), token registry, banner redesign, toolbar blur",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/250"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "manage"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/api/auth/logout/route.js, app/api/claim/route.js, app/api/me/route.js, app/api/sites/deploy/route.js)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "manage rework (per-section saves, profile/api pages, panel), token registry, banner redesign, toolbar blur"
+  ],
+  "links": [
+    {
+      "label": "PR #250: feat: manage rework (per-section saves, profile/api pages, panel), token registry, banner redesign, toolbar blur",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/250"
+    }
+  ],
+  "seo": {
+    "title": "Manage rework (per-section saves, profile/api pages, panel),",
+    "metaDescription": "Covers feat: manage rework (per-section saves, profile/api pages, panel), token registry, banner redesign, toolbar blur (#250), merged into the registry."
+  },
+  "coveredPrs": [
+    250
+  ],
+  "suggestedSlugBase": "manage-rework-section-saves-profile"
+}

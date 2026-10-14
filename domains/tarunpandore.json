@@ -4,5 +4,12 @@
     "github": "tarunpandore"
   },
   "claimedAt": "2026-09-08T09:05:44.234Z",
-  "records": {}
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "subdomains": {
+    "tarunpandore": {
+      "CNAME": "3905c9c4148cd935.vercel-dns-017.com"
+    }
+  }
 }

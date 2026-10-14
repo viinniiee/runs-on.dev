@@ -1,0 +1,16 @@
+{
+  "name": "perfucktionist",
+  "owner": {
+    "github": "innovatorvinayak"
+  },
+  "claimedAt": "2026-10-01T20:16:50.143Z",
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "perfucktionist": {
+      "CNAME": "fc36d9a715ab3e8b.vercel-dns-017.com"
+    }
+  }
+}

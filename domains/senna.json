@@ -1,0 +1,18 @@
+{
+  "name": "senna",
+  "owner": {
+    "github": "placehol"
+  },
+  "claimedAt": "2026-09-28T23:47:38.044Z",
+  "records": {
+    "CNAME": "ephemeral-marzipan-886c9c.netlify.app"
+  },
+  "country": "LY",
+  "subdomains": {
+    "subdomain-owner-verification": {
+      "TXT": [
+        "e69d6419436d48e4a10acc10990a6027"
+      ]
+    }
+  }
+}

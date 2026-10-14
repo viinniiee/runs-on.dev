@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "cname.vercel-dns.com"
   },
-  "country": "CH",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=aryananandtaalbamboodukan.runs-on.dev,f11ce0ca63ac396e8d7a"
-      ]
-    }
-  }
+  "country": "CH"
 }

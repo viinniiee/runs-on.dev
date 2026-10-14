@@ -4,6 +4,8 @@
     "github": "namanipie"
   },
   "claimedAt": "2026-09-23T18:28:14.150Z",
-  "records": {},
+  "records": {
+    "CNAME": "namanipie.github.io"
+  },
   "country": "IN"
 }

@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(health): dedupe nudges on the hostname, not the label",
+  "summary": "Covers fix(health): dedupe nudges on the hostname, not the label (#131), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 131,
+      "title": "fix(health): dedupe nudges on the hostname, not the label",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/131"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "health"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: scripts/health-check.mjs, test/health.test.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(health): dedupe nudges on the hostname, not the label"
+  ],
+  "links": [
+    {
+      "label": "PR #131: fix(health): dedupe nudges on the hostname, not the label",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/131"
+    }
+  ],
+  "seo": {
+    "title": "Fix(health): dedupe nudges on the hostname, not the label · ",
+    "metaDescription": "Covers fix(health): dedupe nudges on the hostname, not the label (#131), merged into the registry."
+  },
+  "coveredPrs": [
+    131
+  ],
+  "suggestedSlugBase": "health-dedupe-nudges-hostname-label"
+}

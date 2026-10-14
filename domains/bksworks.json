@@ -1,0 +1,26 @@
+{
+  "name": "bksworks",
+  "owner": {
+    "github": "mertus2618"
+  },
+  "claimedAt": "2026-10-08T01:45:31.844Z",
+  "records": {
+    "A": [
+      "75.2.60.5"
+    ],
+    "TXT": [
+      "v=spf1 include:spf.improvmx.com ~all"
+    ],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "mx1.improvmx.com"
+      },
+      {
+        "priority": 20,
+        "value": "mx2.improvmx.com"
+      }
+    ]
+  },
+  "country": "TR"
+}

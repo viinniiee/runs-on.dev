@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(health): treat a quoted TXT as equal to the value DNS holds",
+  "summary": "Covers fix(health): treat a quoted TXT as equal to the value DNS holds (#123), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 123,
+      "title": "fix(health): treat a quoted TXT as equal to the value DNS holds",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/123"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "health"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: lib/health.js, test/health.test.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(health): treat a quoted TXT as equal to the value DNS holds"
+  ],
+  "links": [
+    {
+      "label": "PR #123: fix(health): treat a quoted TXT as equal to the value DNS holds",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/123"
+    }
+  ],
+  "seo": {
+    "title": "Fix(health): treat a quoted TXT as equal to the value DNS ho",
+    "metaDescription": "Covers fix(health): treat a quoted TXT as equal to the value DNS holds (#123), merged into the registry."
+  },
+  "coveredPrs": [
+    123
+  ],
+  "suggestedSlugBase": "health-treat-quoted-equal-value"
+}

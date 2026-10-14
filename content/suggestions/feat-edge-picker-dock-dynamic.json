@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Feat(nav): edge picker dock — Dynamic Island-style route navigation",
+  "summary": "Covers feat(nav): edge picker dock — Dynamic Island-style route navigation (#93), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 93,
+      "title": "feat(nav): edge picker dock — Dynamic Island-style route navigation",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/93"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "feat"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: app/edge-picker.jsx, app/globals.css, app/layout.jsx, package-lock.json)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "feat(nav): edge picker dock — Dynamic Island-style route navigation"
+  ],
+  "links": [
+    {
+      "label": "PR #93: feat(nav): edge picker dock — Dynamic Island-style route navigation",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/93"
+    }
+  ],
+  "seo": {
+    "title": "Feat(nav): edge picker dock — Dynamic Island-style route nav",
+    "metaDescription": "Covers feat(nav): edge picker dock — Dynamic Island-style route navigation (#93), merged into the registry."
+  },
+  "coveredPrs": [
+    93
+  ],
+  "suggestedSlugBase": "feat-edge-picker-dock-dynamic"
+}

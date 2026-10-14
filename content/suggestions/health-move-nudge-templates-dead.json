@@ -1,0 +1,43 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Fix(health): move the nudge templates into lib, out of the dead zone",
+  "summary": "Covers fix(health): move the nudge templates into lib, out of the dead zone (#125), merged into the registry.",
+  "why": "Ships a change readers of the registry would notice. Worth documenting so users discover it and search engines can index it.",
+  "prs": [
+    {
+      "number": 125,
+      "title": "fix(health): move the nudge templates into lib, out of the dead zone",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/125"
+    }
+  ],
+  "category": "fix",
+  "tags": [
+    "Bug fix",
+    "health"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: lib/health.js, scripts/health-check.mjs, test/health.test.mjs)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "fix(health): move the nudge templates into lib, out of the dead zone"
+  ],
+  "links": [
+    {
+      "label": "PR #125: fix(health): move the nudge templates into lib, out of the dead zone",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/125"
+    }
+  ],
+  "seo": {
+    "title": "Fix(health): move the nudge templates into lib, out of the d",
+    "metaDescription": "Covers fix(health): move the nudge templates into lib, out of the dead zone (#125), merged into the registry."
+  },
+  "coveredPrs": [
+    125
+  ],
+  "suggestedSlugBase": "health-move-nudge-templates-dead"
+}

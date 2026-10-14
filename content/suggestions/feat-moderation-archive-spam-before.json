@@ -1,0 +1,54 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.090Z",
+  "title": "Feat(moderation): archive spam before and 1 more related changes",
+  "summary": "Covers 2 merged pull requests (#137, #90): feat(moderation): archive spam before deleting it, and log it in the open; feat(moderation): auto-delete spam comments + optionally block the spammer.",
+  "why": "2 related pull requests landed as one effort; documenting them together gives readers the story instead of fragmenting it across release notes.",
+  "prs": [
+    {
+      "number": 137,
+      "title": "feat(moderation): archive spam before deleting it, and log it in the open",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/137"
+    },
+    {
+      "number": 90,
+      "title": "feat(moderation): auto-delete spam comments + optionally block the spammer",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/90"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "feat"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: .github/workflows/deploy.yml, .github/workflows/moderate.yml, .moderation/README.md, data/spam-patterns.json)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "feat(moderation): archive spam before deleting it, and log it in the open",
+    "feat(moderation): auto-delete spam comments + optionally block the spammer"
+  ],
+  "links": [
+    {
+      "label": "PR #137: feat(moderation): archive spam before deleting it, and log it in the open",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/137"
+    },
+    {
+      "label": "PR #90: feat(moderation): auto-delete spam comments + optionally block the spammer",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/90"
+    }
+  ],
+  "seo": {
+    "title": "Feat(moderation): archive spam before and 1 more related cha",
+    "metaDescription": "Covers 2 merged pull requests (#137, #90): feat(moderation): archive spam before deleting it, and log it in the open; feat(moderation): auto-delete spam co"
+  },
+  "coveredPrs": [
+    137,
+    90
+  ],
+  "suggestedSlugBase": "feat-moderation-archive-spam-before"
+}

@@ -1,0 +1,54 @@
+{
+  "status": "suggested",
+  "createdAt": "2026-10-05T15:48:00.089Z",
+  "title": "Add DNS records and and 1 more related changes",
+  "summary": "Covers 2 merged pull requests (#284, #100): Add DNS records and subdomains to tap.json; Add DNS records and subdomains to arpitraj.json.",
+  "why": "2 related pull requests landed as one effort; documenting them together gives readers the story instead of fragmenting it across release notes.",
+  "prs": [
+    {
+      "number": 284,
+      "title": "Add DNS records and subdomains to tap.json",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/284"
+    },
+    {
+      "number": 100,
+      "title": "Add DNS records and subdomains to arpitraj.json",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/100"
+    }
+  ],
+  "category": "feature",
+  "tags": [
+    "Feature",
+    "records"
+  ],
+  "outline": [
+    "What changed (one paragraph, plain language)",
+    "Why it matters for people with a name.runs-on.dev name",
+    "How it works (mention: domains/tap.json, domains/arpitraj.json)",
+    "How to use it (link the relevant guide or the manage page)",
+    "What is next"
+  ],
+  "keyPoints": [
+    "Add DNS records and subdomains to tap.json",
+    "Add DNS records and subdomains to arpitraj.json"
+  ],
+  "links": [
+    {
+      "label": "PR #284: Add DNS records and subdomains to tap.json",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/284"
+    },
+    {
+      "label": "PR #100: Add DNS records and subdomains to arpitraj.json",
+      "url": "https://github.com/zordhalo/runs-on.dev/pull/100"
+    }
+  ],
+  "seo": {
+    "title": "Add DNS records and and 1 more related changes · runs-on.dev",
+    "metaDescription": "Covers 2 merged pull requests (#284, #100): Add DNS records and subdomains to tap.json; Add DNS records and subdomains to arpitraj.json."
+  },
+  "coveredPrs": [
+    284,
+    100
+  ],
+  "suggestedSlugBase": "records-more-related"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "claudiovargas",
+  "owner": {
+    "github": "Rcuchara"
+  },
+  "claimedAt": "2026-09-25T22:18:36.682Z",
+  "records": {
+    "TXT": [
+      "zoho-verification=zb79582425.zmverify.zoho.com",
+      "v=spf1 include:zohomail.com ~all"
+    ],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "mx.zoho.com"
+      },
+      {
+        "priority": 20,
+        "value": "mx2.zoho.com"
+      },
+      {
+        "priority": 50,
+        "value": "mx3.zoho.com"
+      }
+    ]
+  },
+  "country": "CL",
+  "subdomains": {
+    "_dmarc": {
+      "TXT": [
+        "v=DMARC1; p=none"
+      ]
+    }
+  }
+}

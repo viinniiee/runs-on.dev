@@ -9,10 +9,8 @@
   },
   "country": "IN",
   "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=runs-on.dev,f145beb05afe8b65f35e"
-      ]
+    "sailesh": {
+      "CNAME": "b95f3d11a61f97d0.vercel-dns-017.com"
     }
   }
 }

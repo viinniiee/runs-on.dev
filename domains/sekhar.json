@@ -4,6 +4,13 @@
     "github": "Reddisekharyadav"
   },
   "claimedAt": "2026-09-20T18:38:10.344Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "c7f0bea043774956.vercel-dns-017.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "sekhar": {
+      "CNAME": "c7f0bea043774956.vercel-dns-017.com"
+    }
+  }
 }
